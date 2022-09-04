@@ -1,16 +1,12 @@
-# tinder
+# Primeiro Desafio do Flutterando, Tela de Login do Tinder
 
-A new Flutter project.
+Para fazer esta tela utilizei o LinearGradient, colocando um efeito degrade no fundo da tela, depois criei uma Column e organizei seus filhos de acordo com a tela que utilizei de guia.
 
-## Getting Started
+<div align="center">
+<img src="https://user-images.githubusercontent.com/83305912/188334664-5bcf6c1b-d67b-463d-bac8-0d864d4f6b52.png" width="300px" />
+</div>
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Vídeo do Desafio: https://www.youtube.com/watch?v=9zkKGkFj3qg&list=PLlBnICoI-g-d-J57QIz6Tx5xtUDGQdBFB&index=27
